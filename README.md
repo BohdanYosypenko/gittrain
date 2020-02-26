@@ -1,3 +1,2 @@
 # gittrain
-training with git
-#New change
+Metod para
